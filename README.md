@@ -19,6 +19,3 @@ An AI-powered tool that analyzes resumes and gives instant feedback using Google
 2. Create a .env file and add your GOOGLE_API_KEY
 3. Install libraries: pip install streamlit google-genai PyPDF2 python-dotenv
 4. Run: streamlit run AI_resume_Analyzer.py
-
-## Author
-Sherli - Aspiring Python Developer
